@@ -14,24 +14,24 @@ Before using this plugin, you must ensure that `tailor` is installed on your sys
 1. Install Java (JRE or JDK) Version 8 or above from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 1. Install `tailor` by typing the following in a terminal:
-   ``` (bash)
 
-   # Arch Linux (available through the AUR) as "tailor"
-   yaourt -Sy tailor
+```
+# Arch Linux (available through the AUR) as "tailor"
+yaourt -Sy tailor
 
-   # Homebrew / Linuxbrew
-   brew install tailor
+# Homebrew / Linuxbrew
+brew install tailor
 
-   # Other (Linux/MacOSX)
-   curl -fsSL https://tailor.sh/install.sh | sh
+# Other (Linux/MacOSX)
+curl -fsSL https://tailor.sh/install.sh | sh
 
-   # Other (Windows 10)
-   iex (new-object net.webclient).downloadstring('https://tailor.sh/install.ps1')
+# Other (Windows 10)
+iex (new-object net.webclient).downloadstring('https://tailor.sh/install.ps1')
 
-   # For manual installation see Github page
-   # https://github.com/sleekbyte/tailor
+# For manual installation see Github page
+# https://github.com/sleekbyte/tailor
 
-   ```
+```
 
 
 **Note:** This plugin requires `tailor` __0.12.0__ or later.
