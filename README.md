@@ -1,8 +1,6 @@
 SublimeLinter-contrib-tailor
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-tailor.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-tailor)
-
 This linter plugin for [SublimeLinter][docs] provides an interface to [tailor](https://tailor.sh). It will be used with files that have the “__syntax__” syntax.
 
 ## Installation
