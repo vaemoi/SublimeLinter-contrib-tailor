@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vaemoi/SublimeLinter-contrib-tailor.svg?branch=master)](https://travis-ci.org/vaemoi/SublimeLinter-contrib-tailor)
+
 SublimeLinter-contrib-tailor
 ================================
 
