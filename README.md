@@ -32,7 +32,7 @@ iex (new-object net.webclient).downloadstring('https://tailor.sh/install.ps1')
 ```
 
 
-**Note:** This plugin requires `tailor` __0.12.0__ or later.
+**Note:** This plugin requires `tailor` __0.9.0__ or later.
 
 ### Linter configuration
 In order for `tailor` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
