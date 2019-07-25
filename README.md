@@ -6,6 +6,9 @@ SublimeLinter-contrib-tailor
 This linter plugin for [SublimeLinter][docs] provides an interface to [tailor](https://tailor.sh). It will be used with files that have the `swift` syntax.
 
 ## Installation
+This package is available via Package Control [here](https://packagecontrol.io/packages/SublimeLinter-contrib-tailor)
+
+
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
 
 ### Linter installation
