@@ -13,7 +13,7 @@ Before using this plugin, you must ensure that `tailor` is installed on your sys
 
 1. Install Java (JRE or JDK) Version 8 or above from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
-1. Install `tailor` by typing the following in a terminal:
+1. Install `tailor` by typing the following in a terminal or refer to [here](https://github.com/sleekbyte/tailor#installation):
 
 ```
 # Arch Linux (available through the AUR) as "tailor"
